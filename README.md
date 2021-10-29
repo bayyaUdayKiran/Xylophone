@@ -3,7 +3,7 @@ Uday Kiran.
 
 # xylophone
 
-A Simple Xylophone App made using Flutter with 💙️ from INDIA.
+A Simple Xylophone App made with 💙️ from INDIA.
 
 
 
